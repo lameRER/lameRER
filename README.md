@@ -28,7 +28,7 @@ MySQL
 <br />
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=lamerer&show_icons=true)
 <br />
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lameRER)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lamerer)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 lameRER/lameRER is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
