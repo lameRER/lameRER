@@ -7,10 +7,24 @@
 Люблю интересные задачи. Стремлюсь осваивать новые технологии. Читаю мануалы, книги, просматриваю и посещаю тренинги. На данный момент расширяю свои знания на площадке GeekBrains.
 
 Знаком с :
-- C#, JavaScript, JSON
-- .NET: .NET Framework, .NET Core
-- ASP.NET, WEB API, Swagger, WPF, WinForms
-- Git, SVN, MySQL
+- C#:
+   - .NET Core
+        - Console
+        - ASP.NET:
+            - WEB API<!-- : REST API, DI, Swagger, AutoMapper, Dapper, Entity Framework -->
+            - ASP.NET Web App
+            - ASP.NET MVC
+        - WPF<!-- : MVVM -->
+   - .NET Framework
+        - WinForms
+- SQL:
+    - SQL
+    - MySQL
+    - PostgreSQL
+- JavaScript, JSON, Python
+- VCS:
+    - Git
+    - SVN
 
 **Языки и инструменты:**
 
@@ -20,11 +34,14 @@
 <img src="images/HTML5.svg" height="40" style="vertical-align:down; margin:4px" alt="HTML5">
 <img src="images/CSS3.svg" height="40" style="vertical-align:down; margin:4px" alt="CSS3">
 <img src="images/JSON.svg" height="40" style="vertical-align:down; margin:4px" alt="JSON">
+<img src="images/Python.svg" height="40" style="vertical-align:down; margin:4px" alt="Python">
 </p>
 <p>
 <img src="images/VS.svg" height="40" style="vertical-align:down; margin:4px" alt="Visual Studio">
 <img src="images/VSC.svg" height="40" style="vertical-align:down; margin:4px" alt="Visual Studio Code">
 <img src="images/Rider.svg" height="40" style="vertical-align:down; margin:4px" alt="Rider">
+<img src="images/DataGrip.svg" height="40" style="vertical-align:down; margin:4px" alt="DataGrip">
+<img src="images/DBeaver.svg" height="40" style="vertical-align:down; margin:4px" alt="DBeaver">
 <img src="images/Vim.svg" height="40" style="vertical-align:down; margin:4px" alt="Vim">
 </p>
 
