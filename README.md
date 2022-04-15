@@ -47,7 +47,7 @@
 
 ## Some of my Github Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lameRER&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=lamerer&show_icons=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=lameRER&show_icons=true)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lameRER)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
