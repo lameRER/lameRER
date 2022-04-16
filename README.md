@@ -34,6 +34,7 @@
 <img src="images/HTML5.svg" height="40" style="vertical-align:down; margin:4px" alt="HTML5">
 <img src="images/CSS3.svg" height="40" style="vertical-align:down; margin:4px" alt="CSS3">
 <img src="images/JSON.svg" height="40" style="vertical-align:down; margin:4px" alt="JSON">
+<img src="images/mysql.svg" height="40" style="vertical-align:down; margin:4px" alt="MySQL">
 <img src="images/Python.svg" height="40" style="vertical-align:down; margin:4px" alt="Python">
 </p>
 <p>
