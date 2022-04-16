@@ -44,11 +44,14 @@
 <img src="images/DataGrip.svg" height="40" style="vertical-align:down; margin:4px" alt="DataGrip">
 <img src="images/DBeaver.svg" height="40" style="vertical-align:down; margin:4px" alt="DBeaver">
 <img src="images/Vim.svg" height="40" style="vertical-align:down; margin:4px" alt="Vim">
+<img src="images/Git.svg" height="40" style="vertical-align:down; margin:4px" alt="Git">
 </p>
 
 ## Some of my Github Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lameRER&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=lameRER&show_icons=true)
+
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lameRER)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
