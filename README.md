@@ -41,6 +41,7 @@
 <img src="images/VS.svg" height="40" style="vertical-align:down; margin:4px" alt="Visual Studio">
 <img src="images/VSC.svg" height="40" style="vertical-align:down; margin:4px" alt="Visual Studio Code">
 <img src="images/Rider.svg" height="40" style="vertical-align:down; margin:4px" alt="Rider">
+<img src="images/PyCharm.svg" height="40" style="vertical-align:down; margin:4px" alt="PyCharm">
 <img src="images/DataGrip.svg" height="40" style="vertical-align:down; margin:4px" alt="DataGrip">
 <img src="images/DBeaver.svg" height="40" style="vertical-align:down; margin:4px" alt="DBeaver">
 <img src="images/Vim.svg" height="40" style="vertical-align:down; margin:4px" alt="Vim">
