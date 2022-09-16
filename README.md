@@ -21,10 +21,12 @@
     - SQL
     - MySQL
     - PostgreSQL
+    - Oracle
 - JavaScript, JSON, Python
 - VCS:
     - Git
     - SVN
+- Python
 
 **Языки и инструменты:**
 
