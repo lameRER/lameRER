@@ -14,9 +14,10 @@
             - WEB API<!-- : REST API, DI, Swagger, AutoMapper, Dapper, Entity Framework -->
             - ASP.NET Web App
             - ASP.NET MVC
-        - WPF<!-- : MVVM -->
+        <!-- : MVVM -->
    - .NET Framework
         - WinForms
+        - WPF
 - SQL:
     - SQL
     - MySQL
