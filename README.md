@@ -38,7 +38,9 @@
 <img src="images/CSS3.svg" height="40" style="vertical-align:down; margin:4px" alt="CSS3">
 <img src="images/JSON.svg" height="40" style="vertical-align:down; margin:4px" alt="JSON">
 <img src="images/mysql.svg" height="40" style="vertical-align:down; margin:4px" alt="MySQL">
+<img src="images/postgresql.svg" height="40" style="vertical-align:down; margin:4px" alt="PostgreSQL">
 <img src="images/Python.svg" height="40" style="vertical-align:down; margin:4px" alt="Python">
+<img src="images/Java.svg" height="40" style="vertical-align:down; margin:4px" alt="Java">
 </p>
 <p>
 <img src="images/VS.svg" height="40" style="vertical-align:down; margin:4px" alt="Visual Studio">
@@ -46,9 +48,11 @@
 <img src="images/Rider.svg" height="40" style="vertical-align:down; margin:4px" alt="Rider">
 <img src="images/PyCharm.svg" height="40" style="vertical-align:down; margin:4px" alt="PyCharm">
 <img src="images/DataGrip.svg" height="40" style="vertical-align:down; margin:4px" alt="DataGrip">
+<img src="images/IntelliJ.svg" height="40" style="vertical-align:down; margin:4px" alt="IntelliJ">
 <img src="images/DBeaver.svg" height="40" style="vertical-align:down; margin:4px" alt="DBeaver">
 <img src="images/Vim.svg" height="40" style="vertical-align:down; margin:4px" alt="Vim">
 <img src="images/Git.svg" height="40" style="vertical-align:down; margin:4px" alt="Git">
+<img src="images/regex.svg" height="40" style="vertical-align:down; margin:4px" alt="Git">
 </p>
 
 ## Some of my Github Stats
