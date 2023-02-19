@@ -8,25 +8,44 @@
 
 Знаком с :
 - C#:
+
    - .NET Core
+
         - Console
+
         - ASP.NET:
+
             - WEB API<!-- : REST API, DI, Swagger, AutoMapper, Dapper, Entity Framework -->
+
             - ASP.NET Web App
+
             - ASP.NET MVC
+
         <!-- : MVVM -->
    - .NET Framework
+
         - WinForms
+
 - SQL:
+
     - SQL
+
     - MySQL
+
     - PostgreSQL
+
     - Oracle
-- JavaScript, JSON
+
+- JavaScript
+
 - VCS:
+
     - Git
+
     - SVN
+
 - Python
+
 - Java
 
 **Языки и инструменты:**
