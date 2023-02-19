@@ -7,26 +7,46 @@
 Люблю интересные задачи. Стремлюсь осваивать новые технологии. Читаю мануалы, книги, просматриваю и посещаю тренинги. На данный момент расширяю свои знания на площадке GeekBrains.
 
 Знаком с :
+
 - C#:
-   - .NET Core
+
+    - .NET Core
+
         - Console
+
         - ASP.NET:
+
             - WEB API<!-- : REST API, DI, Swagger, AutoMapper, Dapper, Entity Framework -->
+
             - ASP.NET Web App
+
             - ASP.NET MVC
+
         <!-- : MVVM -->
-   - .NET Framework
+    - .NET Framework
+
         - WinForms
+
 - SQL:
+
     - SQL
+
     - MySQL
+
     - PostgreSQL
+
     - Oracle
-- JavaScript, JSON
+
+- JavaScript
+
 - VCS:
+
     - Git
+
     - SVN
+
 - Python
+
 - Java
 
 **Языки и инструменты:**
