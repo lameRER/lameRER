@@ -49,7 +49,7 @@
 
 - Java
 
-**Языки и инструменты:**
+**Languages and tools:**
 
 <p>
 <img src="images/c--4.svg" height="40" style="vertical-align:down; margin:4px" alt="C#">
@@ -76,11 +76,13 @@
 </p>
 
 ## Some of my Github Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lameRER&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lameRER&theme=great-gatsby&layout=compact)
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=lameRER&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=lameRER&theme=great-gatsby&show_icons=true)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lameRER)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-streak-stats.herokuapp.com/?user=lameRER&show_icons=true&locale=en&layout=compact&theme=great-gatsby&line_height=0)
+
+![](https://github-readme-stats.vercel.app/api/wakatime?username=lameRER&theme=great-gatsby)
 
 ---
 <a href="https://github.com/lameRER" alt="https://github.com/lameRER"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=CREATED%20BY&message=lameRER&color=000000"></a>
