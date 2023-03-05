@@ -10,7 +10,7 @@
 
 - C#:
 
-    - .NET Core
+   - .NET Core
 
         - Console
 
@@ -23,7 +23,7 @@
             - ASP.NET MVC
 
         <!-- : MVVM -->
-    - .NET Framework
+   - .NET Framework
 
         - WinForms
 
