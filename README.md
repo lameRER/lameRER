@@ -82,7 +82,7 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lameRER&show_icons=true&locale=en&layout=compact&theme=great-gatsby&line_height=0)
 
-![](https://github-readme-stats.vercel.app/api/wakatime?username=lameRER&theme=great-gatsby)
+<!-- ![](https://github-readme-stats.vercel.app/api/wakatime?username=lameRER&theme=great-gatsby) -->
 
 ---
 <a href="https://github.com/lameRER" alt="https://github.com/lameRER"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=CREATED%20BY&message=lameRER&color=000000"></a>
