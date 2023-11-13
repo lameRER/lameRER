@@ -6,7 +6,7 @@
 
 Люблю интересные задачи. Стремлюсь осваивать новые технологии. Читаю мануалы, книги, просматриваю и посещаю тренинги. На данный момент расширяю свои знания на площадке GeekBrains.
 
-Discord server: https://discord.gg/KWEwUtYQaX 
+Discord server: https://discord.gg/KWEwUtYQaX
 
 Знаком с :
 
@@ -63,6 +63,7 @@ Discord server: https://discord.gg/KWEwUtYQaX
 <img src="images/postgresql.svg" height="40" style="vertical-align:down; margin:4px" alt="PostgreSQL">
 <img src="images/Python.svg" height="40" style="vertical-align:down; margin:4px" alt="Python">
 <img src="images/Java.svg" height="40" style="vertical-align:down; margin:4px" alt="Java">
+<img src="images/bash.svg" height="40" style="vertical-align:down; margin:4px" alt="bash">
 </p>
 <p>
 <img src="images/VS.svg" height="40" style="vertical-align:down; margin:4px" alt="Visual Studio">
