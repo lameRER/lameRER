@@ -64,6 +64,8 @@ Discord server: https://discord.gg/KWEwUtYQaX
 <img src="images/Python.svg" height="40" style="vertical-align:down; margin:4px" alt="Python">
 <img src="images/Java.svg" height="40" style="vertical-align:down; margin:4px" alt="Java">
 <img src="images/bash.svg" height="40" style="vertical-align:down; margin:4px" alt="bash">
+<img src="images/mongodb.svg" height="40" style="vertical-align:down; margin:4px" alt="MongoDB">
+<img src="images/oracle.svg" height="40" style="vertical-align:down; margin:4px" alt="oracle">
 </p>
 <p>
 <img src="images/VS.svg" height="40" style="vertical-align:down; margin:4px" alt="Visual Studio">
